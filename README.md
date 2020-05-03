@@ -11,4 +11,4 @@ A website that offers marketing services
 https://brandonljackson23.github.io/Horiseon/
 
 ## Preview
-![Screenshot of website](./assets/images/preview-screenshot.png)
+![Screenshot of Horiseon Website](assets/images/preview-screenshot.PNG)
